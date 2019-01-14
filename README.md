@@ -20,8 +20,6 @@
 
 <img src="Tutorial10.JPG">
 
-<img src="Tutorial10.JPG">
-
 <img src="Tutorial11.JPG">
 
 <img src="Tutorial12.JPG">
