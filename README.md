@@ -84,6 +84,9 @@ Como o Ardour é uma aplicação livre e open source, qualquer um pode ler seu c
 
 
 <h3>Colaboração de empresas</h3>
-</p>
+
+<p>Harrison contribuiu com reparo de bugs, e realizou demonstrações face-a-face do Ardour a engenheiros líderes de som e estúdios cinematográficos.
+en:SAE Institute está provendo suporte corporativo ao Ardour. O objetivo desta iniciativa é proporcionar uma experiência mais integrada no Mac OS X e o desenvolvimento de uma versão adaptada para alunos iniciantes.[2]
+en:Solid State Logic empregou Paul Davis para trabalhar em tempo integral no Ardour durante o desenvolvimento da versão 2. Este suporte durou até o final de 2006.</p>
 
 
