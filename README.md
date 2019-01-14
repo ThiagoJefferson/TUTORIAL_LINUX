@@ -40,9 +40,9 @@
 
 <h1><center>Adobe Audition</center></h1>
 
-<img src="audition_1400_800.png"><br><br>
+<center><img src="audition_1400_800.png"><br><br></center>
 
-<h3>Adobe Audition</h3><br>
+<center><h3>Adobe Audition</h3><br><center>
 <center><p>É um DAW da Adobe Systems, com multi-pistas, ambiente "não-destrutivo" de edição e mistura, assim como edição waveform "destrutiva".
 
 Originalmente, este programa chamava-se "Cool Edit" e era distribuído sob licença shareware com algumas características crippleware, existindo também versões comerciais, denominadas "Cool Edit Pro". A Adobe adquiriu a versão comercial deste programa, o "Cool Edit Pro 2.0" à empresa "Syntrillium Software" em Maio de 2003. Alteraram então o nome para "Adobe Audition" e lançaram-no a 18 de Agosto desse ano sob a versão 1.0.
@@ -61,8 +61,29 @@ Inclui 50 ferramentas de processamento de sinal digital de alta qualidade, e efe
 Os projectos podem ser interligados aos programas Adobe Premiere e o Adobe After Effects</p><center><br><br>
 
 
+  <h1><center>Ardour OPEN SOURCE</center></h1>
+
+<center><img src="mixer4.png"></center>
+  
+  <h3>Ardour</h3><br><br>
+  <center><p>Ardour é um DAW livre desenvolvido sob licença GPL. Atualmente é suportado nas plataformas Linux, FreeBSD, Solaris, Mac OS X e Microsoft Windows. Seu primeiro autor foi Paul Davis, também responsável pelo JACK Audio Connection Kit. O objetivo do software Ardour é possibilitar a edição de áudio digital profissional.</p></center>
+
+<h3>Características</h3>
+
+  <center><p>O Ardour suporta áudio digital em taxas de amostra arbitrárias, até o limite da capacidade do hardware, bem como a entrada e saída de diferentes formatos de arquivos. As tecnologias de controle MMC (MIDI Machine Control) e MIDI podem ser usadas para controlar a mixagem tanto manual como automaticamente.
+
+O software Ardour oferece algumas variações notáveis nas funções habituais de edição de áudio. Fades, por exemplo, são aplicados em tempo real à medida que são modificados. Vários modelos diferentes de camadas de região também são suportados. O software permite desfazer/refazer instantaneamente e a facilidade de armazenar versões interessantes ou úteis de uma sessão.
+
+Alguns utilizam o Ardour como um ambiente de masterização de áudio. Sua integração com o JACK torna possível a utilização de ferramentas de masterização como o en:JAMin para processar dados de áudio. O Ardour pode também exportar arquivos TOC e CUE, que permitem a criação de arquivos para CDs.</p></center>
 
 
-<img src="mixer4.png">
+<h3>Compatibilidade</h3>
+  <center><p>O Ardour suporta plugins que habilitam vários tipos de efeitos de áudio, com controles dinâmicos. Ardour suporta o plugin LADSPA, Steinberg's VST e plugins padrão com o software Wine.
+
+Como o Ardour é uma aplicação livre e open source, qualquer um pode ler seu código fonte. Isto permitiu que a primeiro porte do Ardour para Mac OS X fosse desenvolvido por alguém não envolvido com o projeto do Ardour.[1] O Ardour tenta aderir as indústrias padrão para maximizar sua funcionalidade e fácil portabilidade</p></center>
+
+
+<h3>Colaboração de empresas</h3>
+</p>
 
 
