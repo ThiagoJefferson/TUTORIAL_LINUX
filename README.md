@@ -38,3 +38,8 @@
 
 <img src="Tutorial19.JPG">
 
+<img src="audition_1400_800.PNG">
+
+<img src="mixer4.PNG">
+
+
